@@ -1,0 +1,182 @@
+{
+  "abasan al kabira" :{
+    "id" : "1",
+    "name": "abasan al kabira",
+    "description" : "It is located in khan yunis governorate"
+  },
+  "abu dis" :{
+    "id" : "2",
+    "name": "abu dis",
+    "description" : "It is located in jerusalem governorate"
+  },
+  "bani na'im" :{
+    "id" : "3",
+    "name": "bani na'im",
+    "description" : "It is located in hebron governorate"
+  },
+  "bani suheila" :{
+    "id" : "4",
+    "name": "bani suheila",
+    "description" : "It is located in khan yunis governorate"
+  },
+  "beit hanoun" :{
+    "id" : "5",
+    "name": "beit hanoun",
+    "description" : "It is located in north gaza governorate"
+  },
+  "beit jala" :{
+    "id" : "6",
+    "name": "beit jala",
+    "description" : "It is located in bethlehem governorate"
+  },
+  "beit lahia": {
+    "id" : "7",
+    "name": "beit lahia",
+    "description" : "It is located in north gaza governorate"
+  },
+  "beit sahour": {
+    "id" : "8",
+    "name": "beit sahour",
+    "description" : "It is located in bethlehem governorate"
+  },
+  "beit ummar": {
+    "id" : "9",
+    "name": "beit ummar",
+    "description" : "It is located in hebron governorate"
+  },
+  "beitunia": {
+    "id" : "10",
+    "name": "beitunia",
+    "description" : "It is located in ramallah and al bireh governorate"
+  },
+  "bethlehem": {
+    "id" : "11",
+    "name": "bethlehem",
+    "description" : "It is located in bethlehem governorate"
+  },
+  "al bireh": {
+    "id" : "12",
+    "name": "al bireh",
+    "description" : "It is located in ramallah and al bireh governorate"
+  },
+  "deir al balah": {
+    "id" : "13",
+    "name": "deir al balah",
+    "description" : "It is located in deir al balah governorate"
+  },
+  "ad dhahiriya": {
+    "id" : "14",
+    "name": "ad dhahiriya",
+    "description" : "It is located in hebron governorate"
+  },
+  "dura": {
+    "id" : "15",
+    "name": "dura",
+    "description" : "It is located in hebron governorate"
+  },
+  "gaza city": {
+    "id" : "16",
+    "name": "gaza city",
+    "description" : "It is located in Gaza governorate"
+  },
+  "halhul": {
+    "id" : "17",
+    "name": "halhul",
+    "description" : "It is located in hebron governorate"
+  },
+  "idhna": {
+    "id" : "18",
+    "name": "idhna",
+    "description" : "It is located in hebron governorate"
+  },
+  "jabalia": {
+    "id" : "19",
+    "name": "jabalia",
+    "description" : "It is located in north gaza governorate"
+  },
+  "jenin": {
+    "id" : "20",
+    "name": "jenin",
+    "description" : "It is located in jenin governorate"
+  },
+  "jericho": {
+    "id" : "21",
+    "name": "jericho",
+    "description" : "It is located in jericho governorate"
+  },
+  "khan yunis": {
+    "id" : "22",
+    "name": "khan yunis",
+    "description" : "It is located in khan yunis governorate"
+  },
+  "nablus": {
+    "id" : "23",
+    "name": "nablus",
+    "description" : "It is located in nablus governorate"
+  },
+  "qabatiya": {
+    "id" : "24",
+    "name": "qabatiya",
+    "description" : "It is located in jenin governorate"
+  },
+  "qalqilya": {
+    "id" : "25",
+    "name": "qalqilya",
+    "description" : "It is located in qalqilya governorate"
+  },
+  "rafah": {
+    "id" : "26",
+    "name": "rafah",
+    "description" : "It is located in rafah governorate"
+  },
+  "ramallah": {
+    "id" : "27",
+    "name": "ramallah",
+    "description" : "It is located in ramallah and al bireh governorate"
+  },
+  "sa'ir": {
+    "id" : "28",
+    "name": "sa'ir",
+    "description" : "It is located in hebron governorate"
+  },
+  "as samu": {
+    "id" : "29",
+    "name": "as samu",
+    "description" : "It is located in hebron governorate"
+  },
+  "surif": {
+    "id" : "30",
+    "name": "surif",
+    "description" : "It is located in hebron governorate"
+  },
+  "tubas": {
+    "id" : "31",
+    "name": "tubas",
+    "description" : "It is located in jenin governorate"
+  },
+  "tulkarm": {
+    "id" : "32",
+    "name": "tulkarm",
+    "description" : "It is located in tulkarm governorate"
+  },
+  "ya'bad": {
+    "id" : "33",
+    "name": "ya'bad",
+    "description" : "It is located in jenin governorate"
+  },
+  "al yamun": {
+    "id" : "34",
+    "name": "al yamun",
+    "description" : "It is located in jenin governorate"
+  },
+  "yatta": {
+    "id" : "35",
+    "name": "yatta",
+    "description" : "It is located in hebron governorate"
+  },
+  "az zawayda": {
+    "id" : "36",
+    "name": "az zawayda",
+    "description" : "It is located in deir al balah governorate"
+  }
+}

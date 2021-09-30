@@ -1,0 +1,482 @@
+{
+  "al atatra": {
+    "id": "1",
+    "name": "Al Atattra",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "al balad": {
+    "id": "2",
+    "name": "Al Balad",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "al farata": {
+    "id": "3",
+    "name": "Al Farata",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "al jam'la": {
+    "id": "4",
+    "name": "Al Jam'la",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "al kur'a el khamsa": {
+    "id": "5",
+    "name": "Al Kur'a El Khamsa",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "al mashroo": {
+    "id": "6",
+    "name": "Al Mashroo",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "al qaraya al badawiya al maslakh": {
+    "id": "7",
+    "name": "Al qaraya Al Badawiya Al Maslakh",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "al salateen": {
+    "id": "8",
+    "name": "Al Salateen",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "al share' el am": {
+    "id": "9",
+    "name": "Al Share' El Am",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "al khazan": {
+    "id": "10",
+    "name": "Al Khazan",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "al nazaz": {
+    "id": "11",
+    "name": "Al Nazaz",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "al Sekka": {
+    "id": "12",
+    "name": "Al sekka",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "al soltan abedl hamaid": {
+    "id": "13",
+    "name": "Al Soltan Abedl Hamaid",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "al zatoon": {
+    "id": "14",
+    "name": "Al Zatoon",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "as slafa": {
+    "id": "15",
+    "name": "As Slafa",
+    "city_id": "5",
+    "description": "It is located in as slafa city"
+  },
+  "aslan": {
+    "id": "16",
+    "name": "Aslan",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "ezbet beit hanoun": {
+    "id": "17",
+    "name": "Ezbet Beit Hanoun",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "fado's": {
+    "id": "18",
+    "name": "Fado's",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "ghaboon hal al amal": {
+    "id": "19",
+    "name": "Ghaboon Hal Al Amal",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "hal abu ghazala": {
+    "id": "20",
+    "name": "Hal Abu Ghazala",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "hal abu rahma": {
+    "id": "21",
+    "name": "Hal Abu Rahma",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "hal al amal": {
+    "id": "22",
+    "name": "Hal Al Amal",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "hal al masreen": {
+    "id": "23",
+    "name": "Hal Al Masreen",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "hal al bansat": {
+    "id": "24",
+    "name": "Hal Al Bansat",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "hal ablyya": {
+    "id": "25",
+    "name": "Hal Al Bansat",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "hal ablyya": {
+    "id": "26",
+    "name": "Hal Ablyya",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "jabalia camp": {
+    "id": "27",
+    "name": "Jabalia Camp",
+    "city_id": "19",
+    "description": "It is located in jabalia city"
+  },
+  "jabalia el balad": {
+    "id": "28",
+    "name": "Jabalia El Balad",
+    "city_id": "19",
+    "description": "It is located in jabalia city"
+  },
+  "madinat al 'awda": {
+    "id": "29",
+    "name": "Madinat Al 'Awda",
+    "city_id": "7",
+    "description": "It is located in beit lahia city"
+  },
+  "zemmo": {
+    "id": "30",
+    "name": "Zemmo",
+    "city_id": "5",
+    "description": "It is located in beit hanoun city"
+  },
+  "ad oarral": {
+    "id": "31",
+    "name": "Ad Oarral",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "al mughraqa": {
+    "id": "32",
+    "name": "Al Mughraqa",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "al zahra": {
+    "id": "33",
+    "name": "Al Zahra",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "an naser": {
+    "id": "34",
+    "name": "An naser",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "as sabra": {
+    "id": "35",
+    "name": "As Sabra",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "ash shati' camp": {
+    "id": "36",
+    "name": "Ash Shati' Camp",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "ash sheikh ijleen": {
+    "id": "37",
+    "name": "Ash Sheikh Ijleen",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "ash sheikh radwan": {
+    "id": "38",
+    "name": "Ash Sheikh Radwan",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "ash shuja'iyeh": {
+    "id": "39",
+    "name": "Ash Shuja'iyeh",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "at tuffah": {
+    "id": "40",
+    "name": "At Tuffah",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "at turukman": {
+    "id": "41",
+    "name": "At Turukman",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "az zatitoun": {
+    "id": "42",
+    "name": "Az Zatitoun",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "gaza harbar": {
+    "id": "43",
+    "name": "Gaza Harbar",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "ijdeedeh": {
+    "id": "44",
+    "name": "ijdeedeh",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "juhor ad dik": {
+    "id": "45",
+    "name": "Juhor ad Dik",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "northern remal": {
+    "id": "46",
+    "name": "Northern Remal",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "old city": {
+    "id": "47",
+    "name": "Old City",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "southern remal": {
+    "id": "48",
+    "name": "Southern Remal",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "tal el hawa": {
+    "id": "49",
+    "name": "Tal El Hawa",
+    "city_id": "16",
+    "description": "It is located in gaza city"
+  },
+  "al bureij camp": {
+    "id": "50",
+    "name": "Al Bureij Camp",
+    "city_id": "13",
+    "description": "It is located in deir al balah city"
+  },
+  "al ma'ani": {
+    "id": "51",
+    "name": "Al Ma'ani",
+    "city_id": "13",
+    "description": "It is located in deir al balah city"
+  },
+  "al maghazi camp": {
+    "id": "52",
+    "name": "Al Maghazi Camp",
+    "city_id": "13",
+    "description": "It is located in deir al balah city"
+  },
+  "al musaddar": {
+    "id": "53",
+    "name": "Al Musaddar",
+    "city_id": "13",
+    "description": "It is located in deir al balah city"
+  },
+  "al nuseirat camp": {
+    "id": "54",
+    "name": "Al Nuseirat Camp",
+    "city_id": "13",
+    "description": "It is located in deir al balah city"
+  },
+  "az zawayda": {
+    "id": "55",
+    "name": "Az Zawayda",
+    "city_id": "13",
+    "description": "It is located in deir al balah city"
+  },
+  "deir al balah": {
+    "id": "56",
+    "name": "Deir Al Balah",
+    "city_id": "13",
+    "description": "It is located in deir al balah city"
+  },
+  "deir al balah camp": {
+    "id": "57",
+    "name": "Deir Al Balah Camp",
+    "city_id": "13",
+    "description": "It is located in deir al balah city"
+  },
+  "wadi as salqa": {
+    "id": "58",
+    "name": "Wadi As Salqa",
+    "city_id": "13",
+    "description": "It is located in deir al balah city"
+  },
+  "abasan al jadida": {
+    "id": "80",
+    "name": "Abasan Al Jadida",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "abasan al kabira": {
+    "id": "59",
+    "name": "Abasan Al Kabira",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "al fukhkhari": {
+    "id": "60",
+    "name": "Al Fukhkhari",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "al mawasi": {
+    "id": "61",
+    "name": "Al Mawasi",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "al qarara": {
+    "id": "62",
+    "name": "Al Qarara",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "al sureij": {
+    "id": "63",
+    "name": "Al sureij",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "bani suhela": {
+    "id": "64",
+    "name": "Bani Suhela",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "khan yunis": {
+    "id": "65",
+    "name": "Khan Yunis",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "khan yunis camp": {
+    "id": "66",
+    "name": "Khan Yunis Camp",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "khuza'a": {
+    "id": "67",
+    "name": "Khuza'a",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "qa'al kharaba": {
+    "id": "68",
+    "name": "Qa'al Kharaba",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "qa'al qurein": {
+    "id": "69",
+    "name": "Qa'al Qurein",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "qizan an najjar": {
+    "id": "70",
+    "name": "Qizan An Najjar",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "umm kameil": {
+    "id": "71",
+    "name": "Umm Kameil",
+    "city_id": "22",
+    "description": "It is located in khan yunis city"
+  },
+  "al bayuk": {
+    "id": "72",
+    "name": "Al Bayuk",
+    "city_id": "26",
+    "description": "It is located in rafah city"
+  },
+  "al mawasl": {
+    "id": "73",
+    "name": "Al Mawasl",
+    "city_id": "26",
+    "description": "It is located in rafah city"
+  },
+  "al qarya as suwydiya": {
+    "id": "74",
+    "name": "Al Qarya As Suwydiya",
+    "city_id": "26",
+    "description": "It is located in rafah city"
+  },
+  "rafah": {
+    "id": "75",
+    "name": "Rafah",
+    "city_id": "26",
+    "description": "It is located in rafah city"
+  },
+  "rafah camp": {
+    "id": "76",
+    "name": "Rafah Camp",
+    "city_id": "26",
+    "description": "It is located in rafah city"
+  },
+  "shokat as sufi": {
+    "id": "77",
+    "name": "Shokat As Sufi",
+    "city_id": "26",
+    "description": "It is located in rafah city"
+  },
+  "tal as sultan": {
+    "id": "78",
+    "name": "Shokat As Sufi",
+    "city_id": "26",
+    "description": "It is located in rafah city"
+  },
+  "umm al kilab": {
+    "id": "79",
+    "name": "Umm Al Kilab",
+    "city_id": "26",
+    "description": "It is located in rafah city"
+  }
+}
