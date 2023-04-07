@@ -77,7 +77,7 @@ class Craftsman extends Authenticatable
     public function Posts(){
         return $this->hasMany(Post::class);
     }
-
+    
     public function getProfileImage(){
         if (!$this->profile){
             return 'images/user.jpg';
@@ -92,5 +92,4 @@ class Craftsman extends Authenticatable
     {
         return $this->belongsToMany(Crafts::class , 'craftsman_crafts');
     }
-
 }

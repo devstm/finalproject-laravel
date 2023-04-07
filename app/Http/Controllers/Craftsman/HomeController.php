@@ -29,7 +29,5 @@ class HomeController extends Controller
         $data = auth('craftsman')->user();
         $posts = Post::all();
         return view('craftsman.home', compact('data','posts'));
-
-
     }
 }

@@ -68,8 +68,6 @@ Route::resource('message', 'App\Http\Controllers\MessageController');
 Route::post('createMessage','App\Http\Controllers\MessageController@createMessage')->name('createMessage');
 Route::get('inbox','App\Http\Controllers\MessageController@inbox')->name('inbox');
 
-
-
 Route::get('/current-crafts/{user}', 'App\Http\Controllers\RelatedCraftsController@currentcrafts');
 Route::get('/add-new-craft/{user}', 'App\Http\Controllers\RelatedCraftsController@create');
 Route::delete('crafts/{user}/delete/', 'App\Http\Controllers\RelatedCraftsController@destroy');

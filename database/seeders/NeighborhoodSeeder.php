@@ -15,7 +15,7 @@ class NeighborhoodSeeder extends Seeder
      */
     public function run()
     {
-        $json = File::get('C:\xampp\htdocs\CraftsmanProject-main\database\seeders\neighborhoods.json');
+        $json = File::get(base_path('database/seeders/neighborhoods.json'));
         $data = json_decode($json);
 
         foreach ($data as $obj){

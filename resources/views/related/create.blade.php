@@ -26,14 +26,14 @@
                             <div class="col-xl-6">
                                 <div class="form-group">
                                     <div class="col-12">
-                                        <select class="form-control @error('city_id') is-invalid @enderror" data-dependent name="craft_id" id="city" required>
-                                            <option value="0">>إختر الحرفة</option>
+                                        <select class="form-control @error('craft_id') is-invalid @enderror" data-dependent name="craft_id" id="city" required>
+                                            <option>إختر الحرفة</option>
                                             @foreach($data as $craft)
                                                 <option value="{{ $craft->id }}">{{ $craft->name }}</option>
                                             @endforeach
                                         </select>
-                                        @error('city_id')
-                                        <span class="text-danger text-right">{{ $message }}</span>
+                                        @error('craft_id')
+                                            <span class="text-danger text-right">{{ $message }}</span>
                                         @enderror
                                     </div>
                                 </div>

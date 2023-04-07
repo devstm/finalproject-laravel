@@ -29,7 +29,7 @@ class PostRequest extends FormRequest
             'cover_image' => 'image',
         ];
     }
-        /**
+    /**
      * Get the messages that apply to the request.
      *
      * @return array

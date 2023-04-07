@@ -26,7 +26,13 @@
                                     </a>
                                     <div class="kt-widget__action">
                                         <a href="{{ URL('/craftsman/'. $craftsman->id .'/show') }}"><button type="button" class="btn btn-label-success btn-sm">الاعمال والمنشورات</button></a>
-                                        <button type="button" class="btn btn-label-success btn-sm btn-upper">دردشة</button>
+                                        @if(auth('craftsman')->user())
+                                        <form action="{{route('createMessage')}}" method="post" class="d-inline">
+                                            {{ csrf_field() }}
+                                            <input type="hidden" name="id" value="{{$craftsman->id}}">
+                                            <button type="submit" class="btn btn-label-success btn-sm btn-upper">دردشة</button>
+                                        </form>
+                                        @endif
                                     </div>
                                 </div>
                                 <div class="kt-widget__subhead">

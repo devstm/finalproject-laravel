@@ -15,7 +15,7 @@ class CitiesSeeder extends Seeder
      */
     public function run()
     {
-        $json = File::get('C:\xampp\htdocs\CraftsmanProject-main\database\seeders\cities.json');
+        $json = File::get(base_path('database/seeders/cities.json'));
         $data = json_decode($json);
 
         foreach ($data as $obj){

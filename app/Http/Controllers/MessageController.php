@@ -41,7 +41,6 @@ class MessageController extends Controller
     public function createMessage(Request $request)
     {
         $receiver_id = $request->id;
-
         $receiver = Craftsman::findOrFail($receiver_id);
         return view('chat.create', compact('receiver'));
     }
@@ -54,10 +53,14 @@ class MessageController extends Controller
      */
     public function store(Request $request)
     {
+        $request->validate([
+            'content' => 'required|min:1|max:255',
+            'sender_id' => 'required',
+            "receiver_id" => "required",
+        ]);
         $message = new Mesage();
         $message->fill($request->only($message->getFillable()))->save();
-//        return back()->with('success', 'message send successfully.');
-return redirect()->route('message.index');
+        return redirect()->route('message.index');
     }
 
     /**
@@ -89,7 +92,7 @@ return redirect()->route('message.index');
      * @param \App\Models\Mesage $mesage
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Mesage $mesage)
+    public function update(MessagesRequest $request, Mesage $mesage)
     {
         //
     }

@@ -24,10 +24,10 @@ class LocationRequest extends FormRequest
     public function rules()
     {
         return [
-            'city_id' => 'numeric',
-            'neighborhood_id' => 'numeric',
-            'street' => 'min:4|max:255',
-            'craftsmanId' => 'numeric',
+            'city_id' => 'required|numeric',
+            'neighborhood_id' => 'required|numeric',
+            'street' => 'required|min:4|max:255',
+            'craftsmanId' => 'required|numeric',
         ];
     }
     /**

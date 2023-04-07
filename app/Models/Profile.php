@@ -13,5 +13,4 @@ class Profile extends Model
     {
         return $this->belongsTo('Craftsman');
     }
-
 }

@@ -21,8 +21,6 @@ class CreateCraftsmenTable extends Migration
             $table->string('password',255);
             $table->string('phone',255);
             $table->string('address',100);
-            $table->integer('profile_id')->nullable();
-            $table->softDeletes();
             $table->timestamp('created_at')->nullable();
             $table->timestamp('updated_at')->nullable();
             $table->rememberToken();
