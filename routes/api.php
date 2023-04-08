@@ -25,7 +25,6 @@ Route::group(['prefix'=>'auth','as'=>'auth.'], function(){
     });
 });
 
-
 Route::middleware('auth:sanctum')->group(function () {
     Route::get('craftsman/profile', [Api\CraftsmanController::class, 'index'])->name('profile');
 });
