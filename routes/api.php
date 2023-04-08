@@ -17,8 +17,14 @@ use App\Http\Controllers\Api;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
+Route::group(['prefix'=>'auth','as'=>'auth.'], function(){
+    Route::post('login', [Api\AuthController::class, 'login'])->name('login');
+    Route::post('signup', [Api\AuthController::class, 'register'])->name('register');
+    Route::middleware('auth:sanctum')->group(function () {
+        Route::post('logout', [Api\AuthController::class, 'logout'])->name('logout');
+    });
+});
 
-Route::post('login', [Api\AuthController::class, 'login'])->name('login');
 
 Route::middleware('auth:sanctum')->group(function () {
     Route::get('craftsman/profile', [Api\CraftsmanController::class, 'index'])->name('profile');
