@@ -8,11 +8,13 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
+use Laravel\Sanctum\HasApiTokens;
 
 class Craftsman extends Authenticatable
 {
     use HasFactory, Notifiable;
     use SoftDeletes;
+    use HasApiTokens;
     /**
      * The attributes that are mass assignable.
      *
@@ -80,7 +82,7 @@ class Craftsman extends Authenticatable
     
     public function getProfileImage(){
         if (!$this->profile){
-            return 'images/user.jpg';
+            return 'images/hasan.jpg';
         } else {
             $profile_i = $this->profile;
             $profile_id = $profile_i->id;
